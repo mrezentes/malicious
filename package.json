@@ -1,0 +1,9 @@
+{
+  "name": "Malicious",
+  "version": "1.0.0",
+  "description": "Malicious script library",
+  "author": "Miki Rezentes",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
